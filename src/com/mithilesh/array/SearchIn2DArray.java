@@ -10,7 +10,8 @@ public class SearchIn2DArray {
         for (int[] a : arr) {
             System.out.println(Arrays.toString(a));
         }
-        int[] indices = search(arr, 3);
+        int[] indices = search(arr, 11
+        );
         System.out.println("Index are here");
         System.out.println(Arrays.toString(indices));
     }
